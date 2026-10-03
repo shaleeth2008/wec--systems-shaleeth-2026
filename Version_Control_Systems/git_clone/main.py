@@ -2,6 +2,8 @@ import argparse
 import json
 from pathlib import Path
 import sys
+import numpy
+
 
 class Repository:
     def __init__(self, path="."):
