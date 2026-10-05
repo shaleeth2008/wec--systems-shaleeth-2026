@@ -115,6 +115,7 @@ Check that the commands and options above match your actual implementation befor
 
 ##  Recruitment Details
 
+-**DEMO VIDEO LINK:** https://drive.google.com/file/d/1NE2m7jatGjny-mRPZYAdFhZk6yOSGfW-/view?usp=sharing
 - **SIG:** WebClub Systems and Security SIG
 - **Task:** Version Control System Client Implementation
 - **Language:** Python 3
