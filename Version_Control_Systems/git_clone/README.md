@@ -1,5 +1,5 @@
 
-# PyGit — Custom Version Control System
+# Git — Custom Version Control System
 
 A lightweight Version Control System (VCS) implemented in Python from scratch. PyGit recreates core Git functionality, including object storage, staging, commits, branches, checkout, and working tree status tracking.
 
